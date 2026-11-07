@@ -64,9 +64,19 @@
 > 🔄 *This section is automatically updated by GitHub Actions whenever a new public repository is created or updated on [@harshsirja](https://github.com/harshsirja).*
 
 <!-- AUTO-REPO-LIST:START -->
-| 📁 Repository | 📝 Description | 💻 Language | ⭐ Stars | 🍴 Forks | 🕒 Last Updated |
-| :--- | :--- | :---: | :---: | :---: | :---: |
-| **[harshsirja](https://github.com/harshsirja/harshsirja)** | Profile README & Automated Repo Tracker | `Markdown` | 0 | 0 | *Auto-syncing...* |
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Public_Repos-5-58A6FF?style=flat-square&logo=github" alt="Total Repos" />
+  <img src="https://img.shields.io/badge/Total_Stars-2-f1e05a?style=flat-square&logo=star" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total_Forks-0-238636?style=flat-square&logo=git" alt="Total Forks" />
+</p>
+
+| 📁 Repository | 📝 Description | 💻 Language | ⭐ Stars | 🍴 Forks | 📅 Created | 🕒 Updated |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: |
+| **[Distributed_PUB_SUB](https://github.com/harshsirja/Distributed_PUB_SUB)** | *No description provided* | `C++` | 1 | 0 | 2026-10-17 | 2026-10-20 |
+| **[harshsirja.github.io](https://github.com/harshsirja/harshsirja.github.io)** | *No description provided* | `HTML` | 0 | 0 | 2026-09-19 | 2026-09-19 |
+| **[custom_shell](https://github.com/harshsirja/custom_shell)** | *No description provided* | `C` | 0 | 0 | 2025-08-16 | 2025-08-16 |
+| **[CS614_Phi_Function_Insertion_Simulation](https://github.com/harshsirja/CS614_Phi_Function_Insertion_Simulation)** | CS614_Advance_Compiler_Phi_Function_Insertion_Simulation | `Java` | 0 | 0 | 2025-02-02 | 2025-02-02 |
+| **[Harshsirja](https://github.com/harshsirja/Harshsirja)** | *No description provided* | `-` | 1 | 0 | 2020-07-25 | 2026-11-07 |
 <!-- AUTO-REPO-LIST:END -->
 
 ---
