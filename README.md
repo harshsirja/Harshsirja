@@ -89,8 +89,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshsirja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshsirja&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" height="175" alt="Top Languages" />
+  <img src="./profile/stats.svg" height="175" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" height="175" alt="Top Languages" />
 </div>
 
 <div align="center">
